@@ -1,0 +1,8 @@
+<html>
+	<body>
+		<script>
+			var arr = document.getElementsByTagName("div");
+			alert(arr[2].innerHTML);
+		</script>
+	</body>
+</html>
